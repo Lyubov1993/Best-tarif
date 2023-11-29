@@ -5,9 +5,9 @@
 Требуется построить модель для задачи классификации, которая выберет подходящий тариф, лучший из предложенных тарифов.  
 # Навыки и инструменты  
 python  
-pandas  
+pandas
 numpy  
-scipy  
+scipy
 sklearn.accuracy_score  
 sklearn.preprocessing.StandardScaler  
 sklearn.linear_model.LinearRegression  
